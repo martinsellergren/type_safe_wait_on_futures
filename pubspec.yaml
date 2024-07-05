@@ -1,0 +1,13 @@
+name: type_safe_wait_on_futures
+description: Type safe wait on futures.
+version: 0.1.0
+repository: https://github.com/martinsellergren/type_safe_wait_on_futures
+
+environment:
+  sdk: ^3.4.3
+
+dependencies:
+  rxdart: ^0.28.0
+
+dev_dependencies:
+  lints: ^3.0.0
