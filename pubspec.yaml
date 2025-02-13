@@ -1,6 +1,6 @@
 name: type_safe_wait_on_futures
 description: Type safe wait on futures, as an alternative to the non-type-safe Future.wait().
-version: 0.2.0
+version: 0.2.1
 repository: https://github.com/martinsellergren/type_safe_wait_on_futures
 
 environment:
